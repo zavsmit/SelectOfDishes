@@ -47,7 +47,7 @@ public class MainActivity extends ActionBarActivity
                 (DrawerLayout) findViewById(R.id.drawer_layout));
 
 
-//        this.getSupportActionBar();
+//        this.getSupportActionBar();dsf dfgd
     }
 
     @Override
