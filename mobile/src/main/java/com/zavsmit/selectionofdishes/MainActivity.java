@@ -48,6 +48,10 @@ public class MainActivity extends ActionBarActivity
 
 
 //        this.getSupportActionBar();dsf dfgd
+//        this.getSupportActionBar();dsf dfgd
+//        this.getSupportActionBar();dsf dfgd
+//        this.getSupportActionBar();dsf dfgd
+//        this.getSupportActionBar();dsf dfgd
     }
 
     @Override
